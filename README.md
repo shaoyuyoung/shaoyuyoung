@@ -6,6 +6,6 @@
 - 📫 E-mail: My personal email is shaoyuyoung@gmail.com, and my work email is shaoyu@isrc.iscas.ac.cn
 - 😎 Hobbies: I love **traveling**, **reading** and **talking**
 - 🏆 Awards: During my college life, I won many awards, including **[ACM SIGSOFT Distinguished Paper Award](http://shaoyuyoung.com/wp-content/uploads/2023/07/ICPC-2023-Distinguished-Paper-Award-QTC4SO.jpg)**
-- 🖥️ Homepage: More information about me on [http://shaoyuyoung.com](http://shaoyuyoung.com)
+- 🖥️ Homepage: More information about me on <a href="http://shaoyuyoung.com" target="_blank">http://shaoyuyoung.com</a>
 
 
