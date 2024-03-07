@@ -15,7 +15,14 @@
 <div>
 
 ```bibtex
-to appear
+@misc{yang2024automatic,
+      title={Automatic Bi-modal Question Title Generation for Stack Overflow with Prompt Learning}, 
+      author={Shaoyu Yang and Xiang Chen and Ke Liu and Guang Yang and Chi Yu},
+      year={2024},
+      eprint={2403.03677},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
 ```
 </div>
 </details>
