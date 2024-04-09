@@ -9,7 +9,7 @@
 - 🖥️ Homepage: More information about me on <a href="http://shaoyuyoung.com" target="_blank">http://shaoyuyoung.com</a>
 
 
-### Below is my selected publication (*equal contribution)
+### Selected publications (*equal contribution)
 
 <details><summary><b> 📜 Automatic Bi-modal Question Title Generation for Stack Overflow with Prompt Learning </b> </summary>
 <div>
