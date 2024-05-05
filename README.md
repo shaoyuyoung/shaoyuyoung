@@ -72,5 +72,5 @@ Jiahua Pei
 <p align="center">
     <a href="https://ieeexplore.ieee.org/abstract/document/10174018/"><img src="https://img.shields.io/badge/Paper-ICPC'23-a55fed.svg"></a>
     <a href="https://github.com/shaoyuyoung/QTC4SO"><img src="https://img.shields.io/badge/artifact-git-black.svg"></a>
-  <a href="http://shaoyuyoung.com/wp-content/uploads/2023/07/ICPC-2023-Distinguished-Paper-Award-QTC4SO.jpg"><img src="https://img.shields.io/static/v1?label=Award&message=ACM%20SIGSOFT%20Distinguished%20Paper%20Award&color=yellow&labelColor=red"></a>
+  <a href="http://shaoyuyoung.com/wp-content/uploads/2024/05/ICPC-2023-Distinguished-Paper-Award-QTC4SO.jpg"><img src="https://img.shields.io/static/v1?label=Award&message=ACM%20SIGSOFT%20Distinguished%20Paper%20Award&color=yellow&labelColor=red"></a>
 </p>
