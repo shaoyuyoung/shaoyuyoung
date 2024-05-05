@@ -16,10 +16,14 @@
 
 ```bibtex
 @article{yang2024automatic,
-  title={Automatic Bi-modal Question Title Generation for Stack Overflow with Prompt Learning},
+  title={Automatic bi-modal question title generation for Stack Overflow with prompt learning},
   author={Yang, Shaoyu and Chen, Xiang and Liu, Ke and Yang, Guang and Yu, Chi},
-  journal={arXiv preprint arXiv:2403.03677},
-  year={2024}
+  journal={Empirical Software Engineering},
+  volume={29},
+  number={3},
+  pages={63},
+  year={2024},
+  publisher={Springer}
 }
 ```
 </div>
