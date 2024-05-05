@@ -5,7 +5,7 @@
 - 🔭 Research interests: I'm currently researching on **Software Testing (especially AI Testing)**, **Large Language Models (LLM4SE, SE4LLM)**, and **Mining Software Repositories**.
 - 📫 E-mail: My email is shaoyuyoung@gmail.com.
 - 😎 Hobbies: I love **traveling**, **reading** and **talking**
-- 🏆 Awards: During my college life, I won many awards, including **[ACM SIGSOFT Distinguished Paper Award](http://shaoyuyoung.com/wp-content/uploads/2023/07/ICPC-2023-Distinguished-Paper-Award-QTC4SO.jpg)**
+- 🏆 Awards: During my college life, I won many awards, including **[ACM SIGSOFT Distinguished Paper Award](http://shaoyuyoung.com/wp-content/uploads/2024/05/ICPC-2023-Distinguished-Paper-Award-QTC4SO.jpg)**
 - 🖥️ Homepage: More information about me on <a href="http://shaoyuyoung.com" target="_blank">http://shaoyuyoung.com</a>
 
 
