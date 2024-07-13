@@ -1,11 +1,10 @@
 ### Hi, here is Shaoyu Yang (Chinese name is 杨少宇 and English name is Shawn Young)👋
 
-- 👦 About me: I am an optimistic and enthusiastic graduate student who is interested in research
-- 🧑‍🎓 Education: I would pursue M.Eng degree at [Nanjing University](https://www.nju.edu.cn/) since 2024.09 under the supervision of Prof. [Chunrong Fang](https://chunrong.github.io/)
-- 🔭 Research interests: I'm currently researching on **Software Testing (especially AI Testing)**, **Large Language Models (LLM4SE, SE4LLM)**, and **Code Intelligence**.
-- 📫 E-mail: My email is shaoyuyoung@gmail.com.
+- 👦 About me: I am a student passionate about research
+- 🧑‍🎓 Education: I would pursue M.Eng degree at [Nanjing University](https://www.nju.edu.cn/) since 24Fall under the supervision of Prof. [Chunrong Fang](https://chunrong.github.io/)
+- 🔭 Research interests: I'm currently researching on **AI & Testing**, **Large Language Models (LLM4SE, SE4LLM)**, and **Code Intelligence**.
+- 📫 E-mail: shaoyuyoung@gmail.com.
 - 😎 Hobbies: I love **traveling**, **reading** and **talking**
-- 🏆 Awards: During my college life, I won many awards, including **[ACM SIGSOFT Distinguished Paper Award](http://shaoyuyoung.com/wp-content/uploads/2024/05/ICPC-2023-Distinguished-Paper-Award-QTC4SO.jpg)**
 - 🖥️ Homepage: More information about me on <a href="http://shaoyuyoung.com" target="_blank">http://shaoyuyoung.com</a>
 
 
