@@ -9,6 +9,7 @@
 - 🖥️ Homepage: More information about me on <a href="http://shaoyuyoung.com" target="_blank">http://shaoyuyoung.com</a>
 
 
+<!--
 ### Selected publications (*equal contribution)
 
 <details><summary><b> 📜 Automatic Bi-modal Question Title Generation for Stack Overflow with Prompt Learning </b> </summary>
@@ -74,3 +75,4 @@ Jiahua Pei
     <a href="https://github.com/shaoyuyoung/QTC4SO"><img src="https://img.shields.io/badge/artifact-git-black.svg"></a>
   <a href="http://shaoyuyoung.com/wp-content/uploads/2024/05/ICPC-2023-Distinguished-Paper-Award-QTC4SO.jpg"><img src="https://img.shields.io/static/v1?label=Award&message=ACM%20SIGSOFT%20Distinguished%20Paper%20Award&color=yellow&labelColor=red"></a>
 </p>
+-->
