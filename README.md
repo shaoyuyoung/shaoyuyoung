@@ -5,7 +5,7 @@
 - 🔭 Research interests: I'm currently researching on **AI & Testing**, **Large Language Models (LLM4SE, SE4LLM)**, and **Code Intelligence**.
 - 📫 E-mail: shaoyuyoung@gmail.com.
 - 😎 Hobbies: I love **traveling**, **reading** and **talking**
-- 🖥️ Homepage: More information about me on <a href="https://shaoyuyoung.github.io" target="_blank">http://shaoyuyoung.com</a>
+- 🖥️ Homepage: More information about me on <a href="https://shaoyuyoung.github.io" target="_blank">https://shaoyuyoung.github.io</a>
 
 
 <!--
