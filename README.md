@@ -7,6 +7,11 @@
 - 😎 Hobbies: I love **traveling**, **reading** and **talking**
 - 🖥️ Homepage: More information about me on <a href="https://shaoyuyoung.github.io" target="_blank">https://shaoyuyoung.github.io</a>
 
+<!--
+### Awards
+![national scholarship](https://github.com/user-attachments/assets/1532cc40-74e7-43bb-a455-df8db355087f)
+![ICPC 2023 - ACM-SIGSOFT-Distinguished Paper Award](https://github.com/user-attachments/assets/dd0286be-b3a9-4fe1-8ece-5e33d81caa63)
+-->
 
 <!--
 ### Selected publications (*equal contribution)
@@ -46,7 +51,7 @@ Chi Yu
 
 
 <details><summary><b> 📜 QTC4SO: Automatic Question Title Completion for Stack Overflow </b> </summary>
-<div>
+
 
 ```bibtex
 @inproceedings{zhou2023qtc4so,
@@ -74,4 +79,5 @@ Jiahua Pei
     <a href="https://github.com/shaoyuyoung/QTC4SO"><img src="https://img.shields.io/badge/artifact-git-black.svg"></a>
   <a href="http://shaoyuyoung.com/wp-content/uploads/2024/05/ICPC-2023-Distinguished-Paper-Award-QTC4SO.jpg"><img src="https://img.shields.io/static/v1?label=Award&message=ACM%20SIGSOFT%20Distinguished%20Paper%20Award&color=yellow&labelColor=red"></a>
 </p>
+
 -->
