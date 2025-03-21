@@ -7,6 +7,10 @@
 - 😎 Hobbies: I love **traveling**, **reading**, **swimming**, and **talking**.
 - 🖥️ Homepage: More information about me on <a href="https://shaoyuyoung.github.io" target="_blank">https://shaoyuyoung.github.io</a>
 
+
+![light](https://raw.githubusercontent.com/shaoyuyoung/shaoyuyoung/output/github-contribution-grid-snake.svg)
+
+
 <!--
 ### Awards
 ![national scholarship](https://github.com/user-attachments/assets/1532cc40-74e7-43bb-a455-df8db355087f)
